@@ -25,10 +25,3 @@ This project is an end-to-end Machine Learning application designed to classify 
 * **Image Processing:** Pillow (PIL), NumPy
 * **Canvas Component:** Streamlit-Drawable-Canvas
 * **Deployment:** GitHub & Streamlit Cloud
-
-## 🚀 Installation & Local Setup
-
-1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/your-username/MNIST-Digit-Recognition-Project.git](https://github.com/your-username/MNIST-Digit-Recognition-Project.git)
-   cd MNIST-Digit-Recognition-Project
