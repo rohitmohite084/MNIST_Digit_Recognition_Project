@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+numpy
+Pillow
+gdown
+streamlit-drawable-canvas
+streamlit-lottie
+requests
